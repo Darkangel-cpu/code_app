@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+data/
+.venv.bak-py39/
+.DS_Store

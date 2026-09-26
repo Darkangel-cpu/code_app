@@ -1,0 +1,3 @@
+[server]
+# 自分の PC からだけ開けるようにする（未設定だと同じ Wi-Fi / LAN の他人からもアクセスできる）
+address = "localhost"
